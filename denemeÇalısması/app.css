@@ -1,0 +1,12 @@
+
+span{
+    color: rgb(5, 5, 190);
+    padding: 6px 10px 6px 10px;
+}
+
+span:hover{
+    background-color:rgba(0, 38, 255, 0.808);
+    color:rgb(255, 230, 0);
+    
+}
+
